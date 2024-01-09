@@ -61,7 +61,7 @@ public class pizza {
         if (isTakeAwayAdded) {
             bill += "Extra Cheese Added : " + takeAwayPrice + "\n";
         }
-        bill += "Bill: " + this.price + "\n";
+        bill += "Bill= " + this.price + "\n";
         System.out.println(bill);
 
 
